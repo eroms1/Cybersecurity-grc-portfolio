@@ -1,6 +1,6 @@
 # GRC Risk Analytics & Executive Dashboard
 
-## Project Overview
+## Project Overview 
 
 This project demonstrates the design and engineering of an end-to-end cybersecurity Governance, Risk and Compliance (GRC) risk analytics solution for a fictional financial services organisation.
 
