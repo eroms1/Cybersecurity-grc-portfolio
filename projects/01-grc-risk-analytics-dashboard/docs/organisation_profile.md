@@ -14,14 +14,23 @@ The organisation operates across:
 Approximate workforce: 2,500 employees.
 
 ## Technology Environment
+- Cloud:           Azure
+- Productivity:    Microsoft 365
+- Identity:        Microsoft Entra ID
+- Endpoints:       Windows/macOS
+- CRM:             Salesforce
+- SIEM:            Microsoft Sentinel
+- EDR:             Microsoft Defender
+- Vulnerability:   Rapid7
+- Cloud Security:  Defender for Cloud
+- Source control:  GitHub
 
-Key technologies include:
-
-- Microsoft Azure
-- Microsoft 365
-- Microsoft Entra ID
-- Microsoft Sentinel
-- Microsoft Defender for Endpoint
-- Rapid7
-- Salesforce
-- GitHub
+## Business Units
+- Technology
+- Information Security
+- Finance
+- Operations
+- Human Resources
+- Legal & Compliance
+- Customer Services
+-Data & Analytics
