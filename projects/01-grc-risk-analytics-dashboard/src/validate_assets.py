@@ -57,4 +57,7 @@ print(invalid_classification)
 
 overdue_dates=assets[assets["next_review_date"].isna()]
 if overdue_dates.empty:
-   
+    print("PASS: No overdue dates")
+else:
+    print("FAIL: Assets overdue")
+print(overdue_dates)
